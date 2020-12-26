@@ -7,7 +7,7 @@
 
 ***
 
-I started learning to make websites using HTML and CSS in class 11^th^ but due to my studies I had to stop in class 12^th^. After I got into college I still had no time to revise my concepts with faded with time but then I came across this **#7DaysOfCode Challenge! by Progate** and it really got my attention. I knew thia was the only way I would be able to again get grasp of the codes and scripts I forgot and even get some more knowledge.
+I started learning to make websites using HTML and CSS in class 11<sup>th</sup> but due to my studies I had to stop in class 12<sup>th</sup>. After I got into college I still had no time to revise my concepts with faded with time but then I came across this **#7DaysOfCode Challenge! by Progate** and it really got my attention. I knew thia was the only way I would be able to again get grasp of the codes and scripts I forgot and even get some more knowledge.
 <p align="center"><img src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width=35%></p>
 
 ***
